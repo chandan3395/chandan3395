@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chandan
 - I am a student studying in RVITM , 1st year
-- 🌱 I’m currently learning Web development
 - 📫 You can reach me through mail
 
 <!---
